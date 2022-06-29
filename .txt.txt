@@ -1,0 +1,60 @@
+1
+https://yandex.ru/search/?text=%s&from=os&clid=1836588
+
+WIN+R=cmd
+netsh wlan show profile
+netsh wlan show profile name="XXXXXXXX" key=clear
+
+powercfg /batteryreport
+
+devmgmt.msc
+
+"C:\Users\Tzuky\AppData\Local\Vivaldi\Application\vivaldi.exe"
+ start brave.exe
+
+
+
+
+cd "c:\Program Files\BraveSoftware\Brave-Browser\Application\" start brave.exe
+
+
+
+https://www.lenovo.com/es/es/laptops/ideapad/500-series/IdeaPad-5-Pro-14ACN6/p/82L700LSSP    
+14 ka bez OS
+
+
+https://www.lenovo.com/es/es/laptops/ideapad/500-series/IdeaPad-5-14ARE05/p/82LM00RXSP
+
+
+https://www.lenovo.com/ua/uk/laptops/ideapad/5-series/IdeaPad-5-Pro-14ITL6/p/88IPS501617
+
+
+
+
+
+
+https://www.mediamarkt.es/es/product/_monitor-lg-ultrawide-29wn600-w-29-wqhd-5-ms-75-hz-displayport-hdmi-freesync-plata-1481723.html
+
+https://www.pccomponentes.com/schneider-sc26-m1f-26-led-ips-ultrawide-fullhd-75hz
+https://www.pccomponentes.com/schneider-sc29-m1f-29-led-ips-ultrawide-fullhd-75hz-reacondicionado
+https://www.pccomponentes.com/schneider-sc29-m1f-29-led-ips-ultrawide-fullhd-75hz
+
+https://www.pccomponentes.com/lg-29wn600-w-29-led-ips-ultrawide-fullhd-freesync
+
+https://www.pccomponentes.com/lg-29wn600-w-29-led-ips-ultrawide-fullhd-freesync
+
+
+
+
+https://www.pccomponentes.com/asus-zenbook-14-um425uaz-ki016t-amd-ryzen-7-5700u-16gb-512gb-ssd-14?offer=24870bc6-ac8e-47d3-bf63-e62948ba5898
+
+https://www.pccomponentes.com/lenovo-ideapad-5-pro-14itl6-intel-core-i7-1165g7-8gb-512gb-ssd-14?offer=ff7bb211-e848-4c4d-8c5f-ac707d2b4be6
+
+https://www.pccomponentes.com/asus-vivobook-s14-s433ea-eb1149t-intel-core-i7-1165g7-16gb-512gb-ssd-14?offer=973a305c-aa06-4f71-8b11-0f065d657ce4
+
+
+
+
+https://www.mediamarkt.es/es/product/_portatil-asus-vivobook-s14-s433ea-eb1151-14-full-hd-intelr-coretm-i7-1165g7-16-gb-512-gb-irisr-xe-fdos-1524330.html
+
+https://www.mediamarkt.es/es/product/_portatil-asus-vivobook-14-k413ea-eb695-14-full-hd-intelr-coretm-i5-1135g7-16-gb-512-gb-fdos-negro-1529410.html
